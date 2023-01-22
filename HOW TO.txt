@@ -1,0 +1,19 @@
+1. Double Click the "Create_Dummy_Mod" file.
+
+2. Select the Mod you want to be replicated into a Dummy
+
+3. Wait
+
+4. Go into the "dummy_mods" directory
+
+5. Move the dummy mod into your "Resources\Client" folder of your Server (restart the server if its running afterwards)
+
+6. Have Fun
+
+
+Note: Be aware that in order for your Players to use Paid mods, they have to copy their Paid mods into the Resource folder of BeamMP.
+
+That Folder can be accessed by right clicking the "BeamMP Launcher" shortcut on the desktop. Clicking "Open Folder" there and then navigating to the "Resources" folder in that new window.
+
+Additional Note: Do not forget that everyone who does not have the paid mod cannot see these paid cars. For those players the paid mod users will appear as a Deep Black ball.
+
